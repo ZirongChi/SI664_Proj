@@ -1,0 +1,92 @@
+.umbrella{
+position: absolute;
+width: 420.05px;
+height: 420.38px;
+left: 808.53px;
+top: 325.97px;
+background: url("./static/UMBRELLA\ -\ Desktop.png");
+transform: rotate(-6.31deg);
+}
+.triangle{
+position: absolute;
+width: 420.05px;
+height: 420.38px;
+left: -26.81px;
+top: 418.39px;
+
+background: url("./static/TRIANGLE\ -\ Desktop.png");
+transform: rotate(-6.31deg);
+}
+.star{
+position: absolute;
+width: 420.38px;
+height: 420.38px;
+left: 390.7px;
+top: 372.2px;
+
+background: url("./static/STAR\ -\ Desktop.png");
+transform: rotate(-6.31deg);
+}
+.squid{
+position: absolute;
+width: 420.05px;
+height: 420.05px;
+left: 344.83px;
+top: -45.34px;
+
+background: url("./static/SQUID\ -\ Desktop.png");
+transform: rotate(-6.31deg);
+}
+.square{
+    position: absolute;
+width: 420.05px;
+height: 420.05px;
+left: 762.33px;
+top: -91.53px;
+
+background: url("./static/SQUARE\ -\ Desktop.png");
+transform: rotate(-6.31deg);
+}
+.circle{
+    position: absolute;
+width: 420.38px;
+height: 420.05px;
+left: -73px;
+top: 0.89px;
+
+background: url("./static/CIRCLE\ -\ Desktop.png");
+transform: rotate(-6.31deg);
+}
+.block{
+    position: absolute;
+    width: 1260.48px;
+    height: 840.43px;
+    left: 30.0px;
+    top: 0.89px;
+    
+    transform: rotate(-6.31deg);
+}
+.page{
+position: absolute;
+width: 1200px;
+height: 700px;
+object-fit: cover;
+background: #FFFFFF;
+border-radius: 40px;
+clip:rect(100px,1200px,650px,0px);
+}
+.Rectangle_39328{
+position: absolute;
+width: 1162px;
+height: 59px;
+left: 31px;
+top: 218px;
+
+background: rgba(0, 0, 0, 0.24);
+border: 1.94708px solid rgba(255, 255, 255, 0.2);
+box-sizing: border-box;
+backdrop-filter: blur(38.9416px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 40px;
+}
